@@ -775,7 +775,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="⭐ Support ⭐", url=f"t.me/NasediServer"),
+            InlineKeyboardButton(text="⭐ Support ⭐", url=f"t.me/nasediServer"),
             InlineKeyboardButton(text="👨‍💻Developer", callback_data="developer"),
         ],
         [
